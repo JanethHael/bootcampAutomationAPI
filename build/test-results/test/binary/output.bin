@@ -18,11 +18,11 @@
 .Content-Type: application/json; charset=utf-8
 Expires: -1
 Server: Microsoft-IIS/8.0
-WSet-Cookie: ASP.NET_SessionId=hjdkmythpl3aaxjqpxvnxqeo; path=/; HttpOnly; SameSite=Lax
+WSet-Cookie: ASP.NET_SessionId=iab5rxrlybntshykjo3vjlne; path=/; HttpOnly; SameSite=Lax
 X-AspNetMvc-Version: 2.0
 X-AspNet-Version: 4.0.30319
 X-Powered-By: ASP.NET
-$Date: Mon, 19 Dec 2022 04:45:08 GMT
+$Date: Wed, 21 Dec 2022 03:53:41 GMT
 Content-Length: 5
 
 false
@@ -46,17 +46,17 @@
 .Content-Type: application/json; charset=utf-8
 Expires: -1
 Server: Microsoft-IIS/8.0
-WSet-Cookie: ASP.NET_SessionId=bo2dyp32ssyuvzmmphvau3uf; path=/; HttpOnly; SameSite=Lax
+WSet-Cookie: ASP.NET_SessionId=t0j1jqflsrnjxivjrhpcwgas; path=/; HttpOnly; SameSite=Lax
 X-AspNetMvc-Version: 2.0
 X-AspNet-Version: 4.0.30319
 X-Powered-By: ASP.NET
-$Date: Mon, 19 Dec 2022 04:45:10 GMT
+$Date: Wed, 21 Dec 2022 03:53:42 GMT
 Content-Length: 126
 
 {
-7    "TokenString": "7107aee53ad949f5b284667111895854",
+7    "TokenString": "c7ec375f6a784c35b93bd309fe7a1b72",
 '    "UserEmail": "mojix@bootcamp.com",
-.    "ExpirationTime": "/Date(1671443110467)/"
+.    "ExpirationTime": "/Date(1671612822500)/"
 }
 Request method:	POST
 /Request URI:	https://todo.ly/api/projects.json
@@ -65,35 +65,35 @@
 Query params:	<none>
 Form params:	<none>
 Path params:	<none>
-1Headers:		token=7107aee53ad949f5b284667111895854
+1Headers:		token=c7ec375f6a784c35b93bd309fe7a1b72
 				Accept=*/*
 0				Content-Type=text/plain; charset=ISO-8859-1
 Cookies:		<none>
 Multiparts:		<none>
 Body:
-/{"Content":"20221219_TEST_API_MOJIX_BOOTCAMP"}
+/{"Content":"20221220_TEST_API_MOJIX_BOOTCAMP"}
 HTTP/1.1 200 OK
 3Cache-Control: no-cache, no-store, must-revalidate
 Pragma: no-cache
 .Content-Type: application/json; charset=utf-8
 Expires: -1
 Server: Microsoft-IIS/8.0
-WSet-Cookie: ASP.NET_SessionId=bnqdbegqrti3rbrtaq5zvkjy; path=/; HttpOnly; SameSite=Lax
+WSet-Cookie: ASP.NET_SessionId=gxq3vwlcslrqajrwkkh2dmdq; path=/; HttpOnly; SameSite=Lax
 X-AspNetMvc-Version: 2.0
 X-AspNet-Version: 4.0.30319
 X-Powered-By: ASP.NET
-$Date: Mon, 19 Dec 2022 04:45:11 GMT
-Content-Length: 420
+$Date: Wed, 21 Dec 2022 03:53:44 GMT
+Content-Length: 421
 
 {
-    "Id": 4048861,
-3    "Content": "20221219_TEST_API_MOJIX_BOOTCAMP",
+    "Id": 4049134,
+3    "Content": "20221220_TEST_API_MOJIX_BOOTCAMP",
     "ItemsCount": 0,
     "Icon": 0,
     "ItemType": 2,
     "ParentId": null,
     "Collapsed": false,
-    "ItemOrder": 7,
+    "ItemOrder": 99,
     "Children": [
 	        
     ],
@@ -102,47 +102,47 @@
 $    "ProjectShareOwnerEmail": null,
     "IsShareApproved": false,
     "IsOwnProject": true,
-3    "LastSyncedDateTime": "/Date(1671425112339)/",
-0    "LastUpdatedDate": "/Date(1671425112340)/",
+3    "LastSyncedDateTime": "/Date(1671594824372)/",
+0    "LastUpdatedDate": "/Date(1671594824357)/",
     "Deleted": false,
 !    "SyncClientCreationId": null
 }
 Request method:	PUT
-7Request URI:	https://todo.ly/api/projects/4048861.json
+7Request URI:	https://todo.ly/api/projects/4049134.json
 Proxy:			<none>
 Request params:	<none>
 Query params:	<none>
 Form params:	<none>
 Path params:	<none>
-1Headers:		token=7107aee53ad949f5b284667111895854
+1Headers:		token=c7ec375f6a784c35b93bd309fe7a1b72
 				Accept=*/*
 0				Content-Type=text/plain; charset=ISO-8859-1
 Cookies:		<none>
 Multiparts:		<none>
 Body:
-7{"Content":"20221219_TEST_API_MOJIX_BOOTCAMP_UPDATED"}
+7{"Content":"20221220_TEST_API_MOJIX_BOOTCAMP_UPDATED"}
 HTTP/1.1 200 OK
 3Cache-Control: no-cache, no-store, must-revalidate
 Pragma: no-cache
 .Content-Type: application/json; charset=utf-8
 Expires: -1
 Server: Microsoft-IIS/8.0
-WSet-Cookie: ASP.NET_SessionId=pci3ookvnlpu1oum2dc4i1vo; path=/; HttpOnly; SameSite=Lax
+WSet-Cookie: ASP.NET_SessionId=qwmra0kjyhp1i05bncn05oci; path=/; HttpOnly; SameSite=Lax
 X-AspNetMvc-Version: 2.0
 X-AspNet-Version: 4.0.30319
 X-Powered-By: ASP.NET
-$Date: Mon, 19 Dec 2022 04:45:13 GMT
-Content-Length: 428
+$Date: Wed, 21 Dec 2022 03:53:45 GMT
+Content-Length: 429
 
 {
-    "Id": 4048861,
-;    "Content": "20221219_TEST_API_MOJIX_BOOTCAMP_UPDATED",
+    "Id": 4049134,
+;    "Content": "20221220_TEST_API_MOJIX_BOOTCAMP_UPDATED",
     "ItemsCount": 0,
     "Icon": 0,
     "ItemType": 2,
     "ParentId": null,
     "Collapsed": false,
-    "ItemOrder": 7,
+    "ItemOrder": 99,
     "Children": [
 	        
     ],
@@ -151,47 +151,47 @@
 $    "ProjectShareOwnerEmail": null,
     "IsShareApproved": false,
     "IsOwnProject": true,
-3    "LastSyncedDateTime": "/Date(1671425113509)/",
-0    "LastUpdatedDate": "/Date(1671425113493)/",
+3    "LastSyncedDateTime": "/Date(1671594825651)/",
+0    "LastUpdatedDate": "/Date(1671594825637)/",
     "Deleted": false,
 !    "SyncClientCreationId": null
 }
 Request method:	GET
-7Request URI:	https://todo.ly/api/projects/4048861.json
+7Request URI:	https://todo.ly/api/projects/4049134.json
 Proxy:			<none>
 Request params:	<none>
 Query params:	<none>
 Form params:	<none>
 Path params:	<none>
-1Headers:		token=7107aee53ad949f5b284667111895854
+1Headers:		token=c7ec375f6a784c35b93bd309fe7a1b72
 				Accept=*/*
 0				Content-Type=text/plain; charset=ISO-8859-1
 Cookies:		<none>
 Multiparts:		<none>
 Body:
-7{"Content":"20221219_TEST_API_MOJIX_BOOTCAMP_UPDATED"}
+7{"Content":"20221220_TEST_API_MOJIX_BOOTCAMP_UPDATED"}
 HTTP/1.1 200 OK
 3Cache-Control: no-cache, no-store, must-revalidate
 Pragma: no-cache
 .Content-Type: application/json; charset=utf-8
 Expires: -1
 Server: Microsoft-IIS/8.0
-WSet-Cookie: ASP.NET_SessionId=hso3rkj0bv55yieawqh0rcmx; path=/; HttpOnly; SameSite=Lax
+WSet-Cookie: ASP.NET_SessionId=au21i5tyw2uqbp1zxpba1i5m; path=/; HttpOnly; SameSite=Lax
 X-AspNetMvc-Version: 2.0
 X-AspNet-Version: 4.0.30319
 X-Powered-By: ASP.NET
-$Date: Mon, 19 Dec 2022 04:45:14 GMT
-Content-Length: 428
+$Date: Wed, 21 Dec 2022 03:53:46 GMT
+Content-Length: 429
 
 {
-    "Id": 4048861,
-;    "Content": "20221219_TEST_API_MOJIX_BOOTCAMP_UPDATED",
+    "Id": 4049134,
+;    "Content": "20221220_TEST_API_MOJIX_BOOTCAMP_UPDATED",
     "ItemsCount": 0,
     "Icon": 0,
     "ItemType": 2,
     "ParentId": null,
     "Collapsed": false,
-    "ItemOrder": 7,
+    "ItemOrder": 99,
     "Children": [
 	        
     ],
@@ -200,47 +200,47 @@
 $    "ProjectShareOwnerEmail": null,
     "IsShareApproved": false,
     "IsOwnProject": true,
-3    "LastSyncedDateTime": "/Date(1671425114632)/",
-0    "LastUpdatedDate": "/Date(1671425113493)/",
+3    "LastSyncedDateTime": "/Date(1671594826884)/",
+0    "LastUpdatedDate": "/Date(1671594825637)/",
     "Deleted": false,
 !    "SyncClientCreationId": null
 }
 Request method:	DELETE
-7Request URI:	https://todo.ly/api/projects/4048861.json
+7Request URI:	https://todo.ly/api/projects/4049134.json
 Proxy:			<none>
 Request params:	<none>
 Query params:	<none>
 Form params:	<none>
 Path params:	<none>
-1Headers:		token=7107aee53ad949f5b284667111895854
+1Headers:		token=c7ec375f6a784c35b93bd309fe7a1b72
 				Accept=*/*
 0				Content-Type=text/plain; charset=ISO-8859-1
 Cookies:		<none>
 Multiparts:		<none>
 Body:
-7{"Content":"20221219_TEST_API_MOJIX_BOOTCAMP_UPDATED"}
+7{"Content":"20221220_TEST_API_MOJIX_BOOTCAMP_UPDATED"}
 HTTP/1.1 200 OK
 3Cache-Control: no-cache, no-store, must-revalidate
 Pragma: no-cache
 .Content-Type: application/json; charset=utf-8
 Expires: -1
 Server: Microsoft-IIS/8.0
-WSet-Cookie: ASP.NET_SessionId=clw53v4co3indy2gdsewm2ko; path=/; HttpOnly; SameSite=Lax
+WSet-Cookie: ASP.NET_SessionId=shtquk0lk00eatxhbvjn40gm; path=/; HttpOnly; SameSite=Lax
 X-AspNetMvc-Version: 2.0
 X-AspNet-Version: 4.0.30319
 X-Powered-By: ASP.NET
-$Date: Mon, 19 Dec 2022 04:45:15 GMT
-Content-Length: 427
+$Date: Wed, 21 Dec 2022 03:53:48 GMT
+Content-Length: 428
 
 {
-    "Id": 4048861,
-;    "Content": "20221219_TEST_API_MOJIX_BOOTCAMP_UPDATED",
+    "Id": 4049134,
+;    "Content": "20221220_TEST_API_MOJIX_BOOTCAMP_UPDATED",
     "ItemsCount": 0,
     "Icon": 0,
     "ItemType": 2,
     "ParentId": null,
     "Collapsed": false,
-    "ItemOrder": 7,
+    "ItemOrder": 99,
     "Children": [
 	        
     ],
@@ -249,8 +249,8 @@
 $    "ProjectShareOwnerEmail": null,
     "IsShareApproved": false,
     "IsOwnProject": true,
-3    "LastSyncedDateTime": "/Date(1671425115739)/",
-0    "LastUpdatedDate": "/Date(1671425115723)/",
+3    "LastSyncedDateTime": "/Date(1671594828023)/",
+0    "LastUpdatedDate": "/Date(1671594828007)/",
     "Deleted": true,
 !    "SyncClientCreationId": null
 }
