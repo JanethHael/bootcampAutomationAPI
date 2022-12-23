@@ -1,0 +1,1 @@
+{"uuid":"4f10b7bc-f258-478f-9356-5d1542296de5","name":"Verfy the test CRUD","children":["54dd30dc-332c-4893-84bb-459447bbc89c"],"befores":[{"name":"verifyAuthenticated","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1671770832827,"stop":1671770836737}],"afters":[],"start":1671770832784,"stop":1671770841626}

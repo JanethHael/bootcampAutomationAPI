@@ -2,10 +2,14 @@ package cleanTest;
 
 import factoryRequest.FactoryRequest;
 import factoryRequest.ParamRequest;
+import io.qameta.allure.Epic;
+import io.qameta.allure.Feature;
+import io.qameta.allure.Owner;
 import io.restassured.response.Response;
 import org.joda.time.DateTime;
 import org.json.JSONObject;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import utils.ApiConfiguration;
 import utils.GetProperties;
@@ -39,6 +43,10 @@ public class ProjectAPITestToken {
     }
 
     @Test
+    @DisplayName("Verify test API CRUD")
+    @Epic("Todo.ly")
+    @Owner("JanMar")
+    @Feature("Login")
     public void verifyCRUDProjectTest() {
         DateTime currentDate = DateTime.now();
         String datProjectName = "" + currentDate.getYear();

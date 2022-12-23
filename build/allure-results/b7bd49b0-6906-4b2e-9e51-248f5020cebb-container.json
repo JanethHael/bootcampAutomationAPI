@@ -1,0 +1,1 @@
+{"uuid":"b7bd49b0-6906-4b2e-9e51-248f5020cebb","name":"Verify the test API CRUD","children":["f2b20115-1da6-4870-9727-ef4178051021"],"befores":[{"name":"verifyAuthenticated","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1671771080327,"stop":1671771084353}],"afters":[],"start":1671771080137,"stop":1671771089370}

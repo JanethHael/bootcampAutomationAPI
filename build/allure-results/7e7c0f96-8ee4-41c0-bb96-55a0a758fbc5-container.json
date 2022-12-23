@@ -1,0 +1,1 @@
+{"uuid":"7e7c0f96-8ee4-41c0-bb96-55a0a758fbc5","name":"verifyCRUDProjectTest()","children":["c014d903-5803-444c-ac2b-9ffe8fbfbef1"],"befores":[{"name":"verifyAuthenticated","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1671770782424,"stop":1671770786599}],"afters":[],"start":1671770782237,"stop":1671770791426}
